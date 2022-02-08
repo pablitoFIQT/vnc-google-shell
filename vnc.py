@@ -15,5 +15,5 @@ os.system(cmd)
 cmd = 'sudo apt-get install vim-gtk3 -y'
 os.system(cmd)
 cmd = 'sudo apt install iputils-ping -y'
-os.sytem(cmd)
+os.system(cmd)
 print("vnc up")
